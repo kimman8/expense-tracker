@@ -8,3 +8,4 @@ This Expense Tracker was created with React Hooks (useState, useContext, useRedu
 * Show balance, expense and income totals
 * Add new transation and reflect in total
 * Delete items from DOM
+* & much much more!
